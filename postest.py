@@ -190,3 +190,4 @@ struk = CetakStruk()
 tStruk = TcetakStruk("STRK020", 50000)
 tabelHitung = TabelHitungPembayaran("MN020", "Ayam Bakar", 25000, 2, 50000)
 tabelCard = TabelPembayaranByCard("CRD020", "Kredit", "Mandiri", 50000)
+
